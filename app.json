@@ -1,5 +1,5 @@
 {
-  "name": "Phoenix-MD",
+  "name": "Phoenix-NB",
   "version": "1.0.0",
   "description": "Phoenix-MD Simple WhatsApp Bot",
   "logo": "https://i.imgur.com/T78fhJk.jpeg",
@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "Phoenix~64c059e165c9f4b440a7c1eec709e056",
       "required": true
     },
     "PREFIX": {
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "919395599794"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -27,9 +27,9 @@
       "value": "10"
     },
     "STICKER_DATA": {
-      "description": "Enter Your Sticker PackName And Author Name",
+      "description": "👑⃟≛⃝NABAJYOTI🕊️⃟⋆≛⃝",
       "required": false,
-      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-𝙼𝙳;𝙰𝚋𝚑𝚒𝚜𝚑𝚎𝚔 𝚂𝚞𝚛𝚎𝚜𝚑☘️"
+      "value": "🎯𝙿𝚑𝚘𝚎𝚗𝚒𝚡-NB☘️"
     },
     "AUDIO_DATA": {
       "description": "Enter Your Audio Data",
@@ -37,24 +37,24 @@
       "value": "Phoenix-MD;Abhishek Suresh;https://graph.org/file/8976892f2f615077b48cd.jpg"
     },
     "OWNER_NAME": {
-      "description": "Enter Your Owner Name",
+      "description": "PHOENIX-NB",
       "required": false,
       "value": "Abhishek Suresh"
     },
     "OWNER_NUMBER": {
-      "description": "Enter Your Owner Number",
+      "description": "919395599794",
       "required": false,
-      "value": "919074692450"
+      "value": ""
     },
     "BOT_NAME": {
-      "description": "Enter Your Bot Name",
+      "description": "Phoenix-NB",
       "required": false,
-      "value": "Phoenix-MD"
+      "value": "Phoenix-NB"
     },
     "MODE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
-      "value": "public"
+      "value": "PRIVATE"
     },
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",

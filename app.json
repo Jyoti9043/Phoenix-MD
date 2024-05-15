@@ -33,8 +33,8 @@
     },
     "AUTO_DATA": {
       "description": "Enter Your Audio Data",
-      "required": true,
-      "value": "Phoenix-NB;nabajyoti;
+      "required": false ,
+      "value": 
     },
     "OWNER_NAME": {
       "description": "NABAJYOTI",
